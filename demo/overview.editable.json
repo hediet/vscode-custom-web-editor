@@ -1,0 +1,7 @@
+{
+	"visualizations": [],
+	"x-editable": {
+		"defaultUrl": "http://localhost:8090/?editor",
+		"kind": "visualization-playground"
+	}
+}
